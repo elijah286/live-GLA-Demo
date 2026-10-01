@@ -901,6 +901,10 @@
           "version": "26.3.1.49171-0+f19"
         },
         {
+          "name": "ni-labview-2026-core-en",
+          "version": "26.3.2.49153-0+f1"
+        },
+        {
           "name": "ni-labview-2026-coreother",
           "version": "26.3.0.49792-0+f640"
         },
@@ -957,10 +961,18 @@
           "version": "26.3.1.49171-0+f19"
         },
         {
+          "name": "ni-labview-2026-runtime-engine",
+          "version": "26.3.2.49153-0+f1"
+        },
+        {
           "name": "ni-labview-2026-runtime-engine-resource",
           "version": "26.3.0.49794-0+f642"
         },
         {
+          "name": "ni-labview-2026-runtime-engine-resource",
+          "version": "26.3.2.49153-0+f1"
+        },
+        {
           "name": "ni-labview-2026-runtime-engine-resource-x64",
           "version": "26.3.0.49794-0+f642"
         },
@@ -969,12 +981,20 @@
           "version": "26.3.1.49171-0+f19"
         },
         {
+          "name": "ni-labview-2026-runtime-engine-resource-x64",
+          "version": "26.3.2.49153-0+f1"
+        },
+        {
           "name": "ni-labview-2026-runtime-engine-x86",
           "version": "26.3.0.49794-0+f642"
         },
         {
           "name": "ni-labview-2026-runtime-engine-x86",
           "version": "26.3.1.49171-0+f19"
+        },
+        {
+          "name": "ni-labview-2026-runtime-engine-x86",
+          "version": "26.3.2.49153-0+f1"
         },
         {
           "name": "ni-labview-2026-scripting-codegen",
@@ -2598,7 +2618,7 @@
         }
       ],
       "labview_version": "2026",
-      "version": "win-6d49b0b2b51e"
+      "version": "win-99acaf3b87d6"
     },
     {
       "key": "linux",
